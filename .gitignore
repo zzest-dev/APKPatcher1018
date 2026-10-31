@@ -1,0 +1,13 @@
+/build/
+/dist/
+/.keys/
+*.apk
+*.obb
+*.keystore
+*.jks
+*.idsig
+*.log
+__pycache__/
+*.pyc
+backend.txt
+local.properties

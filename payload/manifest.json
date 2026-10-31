@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "abi": "armeabi-v7a",
+  "dobby_commit": "2b988dc976f9f8630c6ce8d87aaa9f0deb21bbba",
+  "files": {
+    "classes.dex": "138f4df719d14b9fa76cee60a1e7f834d506c59b6094eb7ab10cb44b66127840",
+    "armeabi-v7a/libbackend1018.so": "62102830fc444b8cd7a9ebe3b1332817687b3ccdc1d61ab40b397c3c126c6914"
+  }
+}
