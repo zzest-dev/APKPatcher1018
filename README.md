@@ -1,6 +1,6 @@
 # APKPatcher1018
 
-Автономный патчер оригинального Android APK MadOut2 BigCityOnline **10.18 / 100118 / ARMv7** для подключения к [AccountBackend1018](https://github.com/zzest-dev/AccountBackend1018). В основном репозитории он подключается как Git-сабмодуль `patcher`.
+Автономный патчер оригинального Android APK MadOut2 BigCityOnline **10.18 / 100118 / ARMv7** для подключения к [AccountBackend1018](https://github.com/zzest-dev/AccountBackend1018).
 
 Патчер создаёт отдельное приложение `com.MadOut.BIG.backend1018`. Оригинальная игра может оставаться установленной. Адрес аккаунтного сервера задаётся при патчинге и затем меняется через `backend.txt` на устройстве.
 
@@ -98,7 +98,7 @@ Java-activity запускает инициализацию в Unity-поток�
 | `Client_FindMirror.Update` | `0x6D61E4` |
 | `Client_FindMirror.LoadFromSite` | `0x6D68B4` |
 
-Выбор зеркала и адрес аккаунтных запросов перенаправляются на `backend.txt`, используется штатный TCP-кодек. Этот payload не запускает Android game server и не реализует мост Mirror ↔ UNet.
+Выбор зеркала и адрес аккаунтных запросов перенаправляются на `backend.txt`, используется штатный TCP-кодек. 
 
 ## Пересборка payload из исходников
 
