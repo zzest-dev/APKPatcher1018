@@ -4,6 +4,8 @@
 
 Патчер создаёт отдельное приложение `com.MadOut.BIG.backend1018`. Оригинальная игра может оставаться установленной. Адрес аккаунтного сервера задаётся при патчинге и затем меняется через `backend.txt` на устройстве.
 
+Готовый APK и OBB с нужным именем можно скачать в [Releases](https://github.com/zzest-dev/APKPatcher1018/releases). Готовая сборка сервера доступна в [Releases AccountBackend1018](https://github.com/zzest-dev/AccountBackend1018/releases).
+
 ## Требования
 
 - Python **3.11+**, только стандартная библиотека.
